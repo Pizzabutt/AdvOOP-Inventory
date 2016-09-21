@@ -1,0 +1,86 @@
+[
+	{
+		"id": 0,
+		"title": "Bronze Gloves",
+		"value": 7,
+		"stats":
+		{
+			"power": 1,
+			"defence": 4,
+			"vitality": 10
+		},
+
+		"description": "Some bronze gloves",
+		"stackable": false,
+		"tier": 1,
+		"sprite": "bronze_gloves"
+	},
+
+	{
+		"id": 1,
+		"title": "Steel Gloves",
+		"value": 10,
+		"stats":
+		{
+			"power": 3,
+			"defence": 12,
+			"vitality": 6
+		},
+
+		"description": "My fists they are MADE OF STEEL",
+		"stackable": false,
+		"tier": 2,
+		"sprite": "steel_gloves"
+	},
+
+	{
+		"id": 2,
+		"title": "White Gloves",
+		"value": 7,
+		"stats":
+		{
+			"power": 15,
+			"defence": 3,
+			"vitality": 2
+		},
+
+		"description": "Some magic gloves to boost damage",
+		"stackable": false,
+		"tier": 5,
+		"sprite": "white_gloves"
+	},
+
+	{
+		"id": 3,
+		"title": "Bronze Sword",
+		"value": 12,
+		"stats":
+		{
+			"power": 5,
+			"defence": 0,
+			"vitality": 5
+		},
+
+		"description": "requires smithing level 4 or greater",
+		"stackable": false,
+		"tier": 1,
+		"sprite": "bronze_sword"
+	},
+
+	{
+		"id": 4,
+		"title": "Silver Sword",
+		"value": 30,
+		"stats":
+		{
+			"power": 1,
+			"defence": 4,
+			"vitality": 10
+		},
+
+		"description": "Some bronze gloves",
+		"stackable": false,
+		"tier": 2,
+		"sprite": "silver_sword"
+	}
+]
